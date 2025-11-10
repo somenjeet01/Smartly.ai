@@ -56,7 +56,7 @@ Client-side `.env` variables depend on how the front-end reads them (check `smar
 
 ## Notes
 
-- Live demo shown above is hosted at Vercel: https://smartly-ai-two.vercel.app/
+- Live demo shown above is hosted at Vercel: https://quickai-gs.vercel.app/
 - If you want me to also add a separate `remade.md` (you asked about that earlier), tell me what content you want or confirm that `readme.md` is sufficient.
 - If you want me to commit and push to `origin`, confirm and I'll push (I can push to the existing HTTPS origin URL already configured in this repo).
 
