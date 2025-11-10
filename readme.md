@@ -1,6 +1,6 @@
 # Smartly.ai
 
-Live demo: https://Smartly-gs.vercel.app/
+Live demo: https://smartly-ai-two.vercel.app/
 
 A small full-stack AI utilities project composed of a client and server. This repository contains two main folders:
 
@@ -56,7 +56,7 @@ Client-side `.env` variables depend on how the front-end reads them (check `smar
 
 ## Notes
 
-- Live demo shown above is hosted at Vercel: https://quickai-gs.vercel.app/
+- Live demo shown above is hosted at Vercel: https://smartly-ai-two.vercel.app/
 - If you want me to also add a separate `remade.md` (you asked about that earlier), tell me what content you want or confirm that `readme.md` is sufficient.
 - If you want me to commit and push to `origin`, confirm and I'll push (I can push to the existing HTTPS origin URL already configured in this repo).
 
@@ -66,10 +66,5 @@ Client-side `.env` variables depend on how the front-end reads them (check `smar
 2. Make changes and run local tests
 3. Commit and open a PR
 
-## License
 
-Add your license file (e.g. `LICENSE`) if you want to make the repo license explicit.
 
----
-
-_Generated on 2025-11-10_
